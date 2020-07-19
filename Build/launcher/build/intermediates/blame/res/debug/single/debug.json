@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "A:\\Git\\Mobile 8Sec\\Build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "A:\\Git\\Mobile 8Sec\\Build\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "A:\\Git\\Mobile 8Sec\\Build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "A:\\Git\\Mobile 8Sec\\Build\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "A:\\Git\\Mobile 8Sec\\Build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "A:\\Git\\Mobile 8Sec\\Build\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "A:\\Git\\Mobile 8Sec\\Build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "A:\\Git\\Mobile 8Sec\\Build\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "A:\\Git\\Mobile 8Sec\\Build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "A:\\Git\\Mobile 8Sec\\Build\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    }
+]
